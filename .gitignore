@@ -1,0 +1,10 @@
+# Local research, downloaded captions, and environments
+work/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
